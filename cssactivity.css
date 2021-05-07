@@ -1,0 +1,30 @@
+body {
+    background-color:cornflowerblue;
+    color: black; }
+
+h1 {
+    color: white;
+    text-align: center; }
+
+h3 {
+    color: darkblue;
+    text-align: center; }
+ul {
+    list-style-type: square;
+}
+
+#about {
+    border-radius: 25x;
+    border: 5px solid #73AD21;
+    border-color: crimson;
+    border-style: dashed;
+    padding: 20px;
+    width: 200px;
+    height: 200px; }
+p {
+    text-align: center;
+    font-family: monospace;
+}
+.link {
+    color:red;
+    font-family: cursive;
